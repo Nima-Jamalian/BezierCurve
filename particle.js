@@ -2,8 +2,10 @@ class Particle {
   constructor(x, y) {
     this.x = x;
     this.y = y;
-    this.dx = random(-8, 8);
-    this.dy = random(-8, 8);
+    // this.dx = random(-8, 8);
+    // this.dy = random(-8, 8);
+    this.dx = 6;
+    this.dy = 4;
   }
 
   update() {

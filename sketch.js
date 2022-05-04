@@ -5,7 +5,7 @@ function setup() {
   p0 = new Particle(0, height / 2);
   p1 = new Particle(width / 4, 0);
   p2 = new Particle((3 * width) / 4, height);
-  p3 = new Particle(width, height / 2 - 10);
+  p3 = new Particle(width, height / 2);
 }
 
 function draw() {
