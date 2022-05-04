@@ -1,2 +1,1 @@
 # BezierCurve
-🌈 Bezier Curve Simulation
